@@ -1,0 +1,8 @@
+{
+  "access_token": "APP_USR-8692224031884714-092915-7bdf6e3d314662e9efdcb2fdd91b6085-200614673",
+  "token_type": "Bearer",
+  "expires_in": 21600,
+  "scope": "offline_access read urn:global:admin:info:/read-only urn:global:admin:info:/read-write urn:global:admin:users:/read-only urn:global:admin:users:/read-write urn:ml:mktp:comunication:/read-only urn:ml:mktp:metrics:/read-only urn:ml:mktp:offers:/read-only urn:ml:mktp:orders-shipments:/read-only write",
+  "user_id": 200614673,
+  "refresh_token": "TG-68dae3c530b24a000161f6ed-200614673"
+}
