@@ -1,13 +1,17 @@
-# Environment variables
+# Envir# Tokens y credenciales
 .env
-
+*.token
+*.key
+.meli_token.json
+.pkce_data.json
+*_token.json
+*_credentials.json
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
-build/
 develop-eggs/
 dist/
 downloads/
