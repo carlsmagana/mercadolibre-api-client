@@ -2,8 +2,11 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)](https://python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://github.com/tu-usuario/mercadolibre-api-client/workflows/Tests/badge.svg)](https://github.com/tu-usuario/mercadolibre-api-client/actions)
+[![Tests](https://github.com/carlsmagana/mercadolibre-api-client/workflows/Tests/badge.svg)](https://github.com/carlsmagana/mercadolibre-api-client/actions)
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg)](VERSION)
+[![GitHub stars](https://img.shields.io/github/stars/carlsmagana/mercadolibre-api-client.svg)](https://github.com/carlsmagana/mercadolibre-api-client/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/carlsmagana/mercadolibre-api-client.svg)](https://github.com/carlsmagana/mercadolibre-api-client/network)
+[![GitHub issues](https://img.shields.io/github/issues/carlsmagana/mercadolibre-api-client.svg)](https://github.com/carlsmagana/mercadolibre-api-client/issues)
 
 Un cliente Python completo y fácil de usar para interactuar con las APIs oficiales de MercadoLibre. Permite buscar productos, obtener detalles, explorar categorías y exportar datos de manera eficiente y respetando los límites de la API.
 
@@ -13,7 +16,7 @@ Un cliente Python completo y fácil de usar para interactuar con las APIs oficia
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/tu-usuario/mercadolibre-api-client.git
+git clone https://github.com/carlsmagana/mercadolibre-api-client.git
 cd mercadolibre-api-client
 
 # Instalar dependencias
